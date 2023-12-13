@@ -2,7 +2,7 @@
 
 My name is Hera
 
-My photo[Alt text](def)
+My photo [![Alt text](def)]
 
 I'm 18
 
