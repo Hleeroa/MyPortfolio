@@ -2,7 +2,7 @@
 
 My name is Hera
 
-My photo [![Alt text](def)]
+![](i.webp)
 
 I'm 18
 
