@@ -6,4 +6,4 @@ My name is Hera
 
 I'm 18
 
-I'm a tr... I mean, a sudent in __Netology__
+I study _Python_ in __Netology__
